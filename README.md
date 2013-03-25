@@ -4,7 +4,7 @@ tools
 
 ## 2013/03/25 ##
 * tools/ruby/ec2-setup.rb
-** EC2 instance startup ruby script using the chef.
+   * EC2 instance startup ruby script using the chef.
 
 License
 ----------
